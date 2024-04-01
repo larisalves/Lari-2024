@@ -6,3 +6,15 @@ body
   font-family: 'Arial', sans-serif;
   text-align: center !important;
 } 
+
+h1,h2 {
+  font-size: 30pt;
+  color: black;
+  text-decoration: underscore;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+  
