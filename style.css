@@ -2,7 +2,7 @@
 body
 {
   background: linear-gradient(180deg, rgba(212,255,194,1) 0%, rgba(157,250,114,1) 35%, rgba(67,255,0,1) 100%);
-  font-size: : 12 pt; 
-  font-family: Arial;
+  font-size: 12pt; 
+  font-family: 'Arial', sans-serif;
   text-align: center !important;
 } 
