@@ -1,4 +1,4 @@
-@chanset "utf-8";
+@charset "utf-8";
 body
 {
   background: linear-gradient(180deg, rgba(212,255,194,1) 0%, rgba(157,250,114,1) 35%, rgba(67,255,0,1) 100%);
@@ -18,3 +18,17 @@ a {
   text-decoration: none;
 }
   
+#meu_site {
+  text-align: center;
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.subtitulo {
+  text-align: center;
+}
+
+#meu_site, .subtitulo {
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 10px;
+}
