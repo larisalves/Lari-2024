@@ -34,3 +34,15 @@ a {
   width: 80%;
   margin: 20px auto;
 }
+
+.paragrafoImpar {
+ font-family: 'Arial', sans-serif;
+ font-size: 16pt;
+ color: red; 
+}
+
+.paragrafoPar {
+  font-family: 'Verdana', sans-serif;
+  font-size: 20pt;
+  color: blue;
+}
